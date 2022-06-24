@@ -1,0 +1,19 @@
+{
+  "name": "androidscannerdemo",
+  "version": "1.0.0",
+  "description": "ScanLibrary is an android document scanning library built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haggholm/AndroidScannerDemo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haggholm/AndroidScannerDemo/issues"
+  },
+  "homepage": "https://github.com/haggholm/AndroidScannerDemo#readme"
+}
